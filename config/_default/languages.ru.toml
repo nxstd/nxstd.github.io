@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 января 2006"
 copyright = "Copyright © 2024 HIlight3R"
 
-[author]
+[params.author]
 name = "HIlight3R"
 image = "img/avatar.jpg"
 headline = "Немножко обо мне..."
