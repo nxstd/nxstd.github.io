@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://hilight3r.is-a.dev/</loc>
+    <loc>https://nxstd.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://hilight3r.is-a.dev/ru/"
+      href="https://nxstd.github.io/ru/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://hilight3r.is-a.dev/"
+      href="https://nxstd.github.io/"
     />
   </url>
 </urlset>
